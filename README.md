@@ -1,6 +1,6 @@
 # Decision Theory Case Study: Rationality in the Short Run
 
-While the majority of decision theory focuses on long-term optimality, we take to heart John Keynes' idea that in the long run, we are all dead.
+While the majority of decision theory focuses on long-term optimality, we take to heart John Keynes's idea that in the long run, we are all dead.
 
 Doing so, we did a minor study on possible attacks on expected utility maximization. We performed numerical simulations to demonstrate that certain classes of scenarios with particular state space distributions make expected utility maximization run counter to what one may intuitively call 'rational' and indeed, often result in undesirable outcomes.
 
